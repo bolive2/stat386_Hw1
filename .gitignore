@@ -1,0 +1,5 @@
+#type name of files that git will ignore
+
+api-keys.txt
+
+dumb.txt
