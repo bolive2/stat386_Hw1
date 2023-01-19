@@ -1,0 +1,4 @@
+Ideas 
+-Boxplots
+-Regression
+-Bayes Thm
