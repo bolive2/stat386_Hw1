@@ -1,0 +1,31 @@
+    1  git config user.name
+    2  git config --global user.name "Brannon Olive"
+    3  git config user.name
+    4  git config --global user.email "bolive.228@gmail.com"
+    5  git config core.editor
+    6  git config --global core.editor "code --wait"
+    7  git config --global init.defaultBranch main 
+   14  git --version
+   17  git init
+   19  git status
+   20  history | grep "git" > git_commands.txt
+   27  git status
+   30  git add statistics.txt
+   31  git status
+   32  git commit -m 'make first commit'
+   33  git status
+   34  git log
+   35  git status
+   36  git commit -a -m 'Updated curriculum'
+   37  git status
+   38  git add .
+   39  git commit -m 'Add files'
+   40  git log
+   43  git log
+   44  git status
+   46  git status
+   47  git add .gitignore
+   48  git commit -m 'Add .gitignore file'
+   49  git status
+   50  git status
+   55  history | grep 'git' > git_commands.txt
